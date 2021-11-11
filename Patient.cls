@@ -1,5 +1,5 @@
 /// Classname Application.MSG.Patient
-/// Summary   Patient消息模型
+/// Summary   Patient消息模型我进行了修改
 /// Version   1.0
 /// Date      2021年1月20日 09:00
 Class Application.MSG.Patient Extends Ens.Request
